@@ -1,4 +1,3 @@
 Python 3.7 or higher
-requests
 Pillow (optional, for PDF)
 img2pdf (optional, for PDF)
